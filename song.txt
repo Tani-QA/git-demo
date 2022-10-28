@@ -7,3 +7,5 @@ second kuplet
 
 3 kuplet for feature
 
+fot teg only
+
